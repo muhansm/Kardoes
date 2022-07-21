@@ -1,4 +1,5 @@
 RENCANA KONTEN KARDOES
 
 - Membuat sesuatu website
+ COMPANY PROFILE
 - membuat pembeli bisa langsung order tanpa harus chat
